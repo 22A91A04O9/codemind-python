@@ -1,4 +1,4 @@
 b=int(input())
 h=int(input())
-area=(b*h//2)
-print(area)
+c=0.5*b*h
+print("%d"%c)
