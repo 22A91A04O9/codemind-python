@@ -1,3 +1,3 @@
-r=int(input())
-a=3.14*r**2
-print(a)
+a=int(input())
+ar=3.14*a*a
+print(f"{ar:.2f}")
